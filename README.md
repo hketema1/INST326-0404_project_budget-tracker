@@ -3,7 +3,6 @@
 
 A command-line Python application to track income and expenses, view summaries, and manage your personal budget. Built as the final group project for INST326.
 
----
 
 ## ✅ Current Features
 
@@ -13,7 +12,6 @@ A command-line Python application to track income and expenses, view summaries, 
 - Unit tests for transaction data functionality
 - All modules include docstrings and inline comments for clarity
 
----
 
 ## 🚧 Coming Soon
 
