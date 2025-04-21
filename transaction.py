@@ -1,7 +1,7 @@
 """
 transaction.py
 
-Defines the Transaction class for managing individual income and expense entries.
+This part defines the Transaction class for managing individual income and expense entries.
 """
 
 class Transaction:
