@@ -5,9 +5,18 @@ A command-line Python application to track income and expenses, view summaries, 
 
 ---
 
-## 📌 Features
+## ✅ Current Features
 
-- Add income or expense transactions with a description and category
-- View current balance
-- Generate summary reports by category
-- Simple, menu-based command-line interface
+- `Transaction` class to represent individual financial entries
+- `BudgetManager` class to manage and summarize transactions
+- File saving and loading via JSON
+- Unit tests for transaction data functionality
+- All modules include docstrings and inline comments for clarity
+
+---
+
+## 🚧 Coming Soon
+
+- Command-line interface (`cli.py`) for interactive user input
+- Input validation for transaction types and amounts
+- Unit tests for file I/O and budget summaries
