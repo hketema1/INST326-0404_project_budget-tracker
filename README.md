@@ -19,7 +19,7 @@ A command-line Python application to track income and expenses, view summaries, 
 - Input validation for transaction types and amounts
 - Unit tests for file I/O and budget summaries
 
-## Priority List for the build.
+## Priority List for the build
 
 1. Get started with file 'cli.py' that runs the command-line menu for user interaction
 2. Create unit tests for budget_manager.py - 'test_budget_manager.py'
