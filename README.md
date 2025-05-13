@@ -48,4 +48,4 @@ A command-line Python application to track income and expenses, view summaries, 
 
 ---
 
-> ✅ Project Status: **Fully Functional** and ready for final testing + submission.
+> ✅ Project Status: **Fully Functional** and ready for submission.
