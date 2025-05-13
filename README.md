@@ -21,8 +21,8 @@ A command-line Python application to track income and expenses, view summaries, 
 ## 🔧 Final Touches
 
 - Sample data files for demo purposes  
-- README polish and GitHub submission  
-- Optional CLI enhancements for even smoother UX  
+- README polished and GitHub updated 
+- Optional CLI enhancements for even smoother User Experience
 
 ---
 
