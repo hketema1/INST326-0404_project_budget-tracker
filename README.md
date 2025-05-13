@@ -1,4 +1,5 @@
-#  Budget Tracker aka 'CashFlowr'💸 – INST326 Final Project
+#  Budget Tracker aka 'CashFlowr'💸
+## INST326 Final Project
 
 A command-line Python application to track income and expenses, view summaries, visualize your data, and manage your personal budget. Built as the final group project for INST326.
 
